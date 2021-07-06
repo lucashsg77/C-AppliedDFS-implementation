@@ -1,4 +1,4 @@
-#include "mandatory.h"
+#include "townCounter.h"
 
 //Allocates the an array of size n and initializes it's values with 0, if it can't allocate the memory the program exits with code 1
 void allocateMem(int **data, int n){

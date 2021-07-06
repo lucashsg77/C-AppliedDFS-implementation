@@ -1,4 +1,4 @@
-#include "mandatory.h"
+#include "townCounter.h"
 
 void printResults(int data[], int results[], int n, int numTowns);
 
